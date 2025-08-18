@@ -24,8 +24,8 @@ A high-performance interactive 3D globe built with React and Three.js, featuring
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/react-three-globe.git
-cd react-three-globe
+git clone https://github.com/Voice-less/react-three-geojson-globe.git
+cd react-three-geojson-globe
 
 # Install dependencies
 npm install
@@ -78,7 +78,7 @@ src/
 │   └── App.jsx
 ├── assets/
 │   ├── data/
-│   │   └── final_map.json             # GeoJSON data
+│   │   └── world_morocco.json             # GeoJSON data
 │   └── textures/
 │       ├── galaxy.png                 # Background texture
 │       └── [texture files]            # Globe textures
@@ -111,7 +111,7 @@ src/
 
 ## 🌍 GeoJSON Data
 
-The project uses a custom GeoJSON file (`final_map.json`) containing:
+The project uses a custom GeoJSON file (`world_morocco.json`) containing:
 - World country boundaries
 - Regional subdivisions of Morocco
 - Custom properties for styling
