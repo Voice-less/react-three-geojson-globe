@@ -2,7 +2,7 @@ import React, { useMemo, useState, useEffect } from 'react';
 import * as THREE from 'three';
 import { GeoJSONLoader } from 'three-geojson';
 import { WGS84_ELLIPSOID } from '3d-tiles-renderer';
-import myCustomGeoJson from '../../assets/data/final_map.json';
+import myCustomGeoJson from '../../assets/data/world_morocco.json';
 
 // Move constants outside component (from official examples pattern)
 const CONFIG = {
