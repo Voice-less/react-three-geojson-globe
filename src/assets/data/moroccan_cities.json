@@ -1,0 +1,44 @@
+[
+  {
+    "city": "AGADIR",
+    "lat": 30.4214,
+    "lon": -9.5831,
+    "region": "Souss-Massa",
+    "population": 421844
+  },
+  {
+    "city": "AHFIR", 
+    "lat": 34.9514,
+    "lon": -2.1025,
+    "region": "Oriental",
+    "population": 12345
+  },
+  {
+    "city": "AIN BNI MATHAR",
+    "lat": 34.0889,
+    "lon": -2.0247,
+    "region": "Oriental", 
+    "population": 8765
+  },
+  {
+    "city": "AIN EL OUDA",
+    "lat": 33.8111,
+    "lon": -6.7922,
+    "region": "Rabat-Salé-Kénitra",
+    "population": 15432
+  },
+  {
+    "city": "AIN TAOUJDATE",
+    "lat": 33.9333,
+    "lon": -5.2167,
+    "region": "Fès-Meknès",
+    "population": 23456
+  },
+  {
+    "city": "AIT MELLOUL",
+    "lat": 30.3342,
+    "lon": -9.4972,
+    "region": "Souss-Massa",
+    "population": 171847
+  }
+]
